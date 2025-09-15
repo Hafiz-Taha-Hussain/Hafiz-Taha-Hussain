@@ -10,7 +10,7 @@
 
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
-- Building real-world software solutions  
+- Building real-world software solution 
 
 ---
 
