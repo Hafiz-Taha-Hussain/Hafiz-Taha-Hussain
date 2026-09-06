@@ -19,7 +19,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[ML Model Comparison: Interview Answer Evaluation](#)** | Built a full ML pipeline classifying CS interview answers (Good/Average/Poor) on a custom 300-sample dataset across 8 domains. Compared Logistic Regression vs. SVM with 5-fold CV — SVM won at 98.3% test accuracy. | Python, Scikit-learn, Sentence-BERT, Pandas |
-| **[Gym Mate](#)** | Cross-platform fitness tracking app with Firebase auth, workout tracking, and a BMI/progress dashboard. Built solo end-to-end. | React Native, Firebase |
+| **[Gym Mate](https://github.com/Hafiz-Taha-Hussain/gym-mate-app)** | Cross-platform fitness tracking app with Firebase auth, workout tracking, and a BMI/progress dashboard. Built solo end-to-end. | React Native, Firebase |
 | **[E-Farming Product Store](#)** | Multi-role e-commerce platform (admin/customer/farmer) with a MySQL schema using transactions, triggers, and cursors. | PHP, MySQL |
 
 
